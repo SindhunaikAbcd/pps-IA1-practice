@@ -1,5 +1,5 @@
 #include<stdio.h>
-void intput (int *a,int *b)
+void input (int *a,int *b)
 {
   printf("enter two numbers\n");
   scanf("%d%d",a,b);
